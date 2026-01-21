@@ -17,3 +17,6 @@ To run locally:
   cd frontend
   npm install
   npm run dev
+
+Environment example:
+- Copy `backend/.env.example` to `backend/.env` and fill values.
